@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Java Backend Developer | Spring Boot Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Final+year+Computer+Engineering+student;Java+Spring+Boot+Backend+Developer;Loves+building+real-world+apps;Team+Player+%2B+Hackathon+Participant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Final+year+Computer+Engineering+student;Java+Spring+Boot+Backend+Developer;Loves+building+real-world+apps;Team+Player+%2B+Hackathon+Participant" alt="Typing SVG" />
 </p>
 
 ---
