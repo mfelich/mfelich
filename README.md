@@ -7,7 +7,7 @@
 
 ---
 
-💡 About Me
+## 💡 About Me
 
 I'm a final-year Computer Engineering student from Bosnia and Herzegovina with a passion for understanding how and why things work — a curiosity I bring straight into backend development. I enjoy building clean and scalable systems with secure authentication.
 
