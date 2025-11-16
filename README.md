@@ -1,95 +1,81 @@
 <h1 align="center">Hi there, I'm Mirza 👋</h1>
-<h3 align="center">Aspiring Java Backend Developer | Spring Boot Enthusiast | Problem Solver</h3>
+<h3 align="center">Java Backend Developer | Spring Boot Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Final+year+Computer+Engineering+student;Java+Spring+Boot+Backend+Developer;Loves+building+real-world+apps;Team+Player+%2B+Hackathon+Participant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Spring+Boot+%7C+Final+year+Engineering+Student;Building+Production+Grade+Apps;Learning+New+Technologies+Continuously" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💡 About Me
+💡 About Me
 
-I'm a final-year Computer Engineering student from Bosnia and Herzegovina, with a deep passion for backend development using Java and Spring Boot. I thrive on challenges and enjoy building real-world applications that solve actual problems.
+I'm a final-year Computer Engineering student from Bosnia and Herzegovina with a passion for understanding how and why things work — a curiosity I bring straight into backend development. I enjoy building clean and scalable systems with secure authentication.
 
-I’m especially interested in system architecture, clean code, and backend logic. I believe learning never stops, and I'm constantly exploring how to push my skills further — one line of code at a time.
-
----
-
-## 🔭 I’m currently working on
-
-**[Biddora App](#)** – A modern auction platform with real-time bidding powered by WebSockets. Built using Spring Boot, JWT, PostgreSQL, and Docker.  
-> 🏗 Features: Product listing, bidding system, scheduled status updates, and winner calculation.
+Even in everyday life, I’m fascinated by understanding how and why things work, which fuels my passion for developing backend systems. My goal is to create reliable, maintainable, and efficient backend solutions that scale well and support real-world business needs.
 
 ---
 
-## 🚀 Highlight Projects
+## 🔭 Projects
 
-### 📘 [NoteShare](#)
-> Platform for students to upload, search, rate, and generate AI-powered study notes.
+### 📘 [Biddora Backend](https://github.com/mfelich/biddora-backend)
 
-- 💡 Built with: Spring Boot, Spring Security, JWT, PostgreSQL, and OpenAI API
-- 🧠 AI functionality to generate study scripts as downloadable PDFs
-- 📨 Notification system for ratings and feedback
+A fully developed Spring Boot backend for a real-time auction platform.
 
-### 🔧 [Biddora App](#)
-> Auction system where users list products and others place bids within a time frame.
+* ⚙️ Built with Spring Boot, JPA/Hibernate, JWT, PostgreSQL, WebSockets, Docker
+* ⏱ Real-time bid tracking and automated auction closure
+* 🛡 Role-based access control and robust service-layer business logic
+* ✅ Fully containerized and production-ready
 
-- ⚙️ Built with: Spring Boot, JPA, JWT, PostgreSQL, WebSockets, Docker
-- ⏱ Real-time bid tracking with scheduled product expiration
-- 🛡 Role-based access control with advanced authorization rules
+### 🔧 Current Project: CareBox App
+
+Developing a modern web and IoT platform with:
+
+* **Backend:** Spring Boot
+* **Frontend:** ReactJS
+* **Microcontroller:** ESP module controlled by Java backend
+* Integrated real-time communication between devices and backend
+* Focused on clean architecture, scalability, and maintainability
 
 ---
 
 ## 🧰 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apache-maven\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ---
 
-## 👯 I’m looking to collaborate on
+## 👯 Collaboration & Goals
 
-I'm open to working on serious Java Spring Boot backend projects, especially those that solve meaningful problems. I'm also curious and ready to explore new technologies, contribute to open source, and learn from other developers in the process.
-
----
-
-## 🎯 Goals for 2025
-
-- ✅ Launch full version of **Biddora App** with CI/CD and cloud deployment
-- ✅ Master containerization and production-ready Docker setups
-- 🔜 Learn Kubernetes and deploy microservices
-- 🔍 Land a backend developer position in a company that values clean code, teamwork, and innovation
+I'm looking to contribute to backend-focused projects, especially those using Spring Boot and Java. I enjoy learning new technologies, building production-grade systems, and improving my skills in real-world scenarios.
 
 ---
 
 ## 💼 Experience
 
-- 👨‍💻 Participated in a university hackathon focused on building a real-time web app using Spring Boot
-- 🧠 Worked in a team environment, managing roles, code reviews, and agile-based planning
+* 👨‍💻 Developed and deployed the **Biddora Backend** platform, implementing real-time WebSocket features, robust service-layer logic, and scalable backend systems
+* 🧠 Currently developing the **CareBox App**, integrating Spring Boot backend, React frontend, and ESP microcontrollers for IoT interactions
+* 🎓 During university, gained hands-on experience with a variety of technologies and projects:
+
+  * **MATLAB & Simulink** for modeling and simulations
+  * **Python** for building and testing neural networks
+  * **Web development** projects using modern frameworks
+  * **ESP / Arduino programming** for microcontroller control and integration
+  * **Cisco Networking Certification** for foundational network knowledge and practical skills
+* 🛠 Experienced in team collaboration, code reviews, and following clean architecture principles
 
 ---
 
 ## 📫 Contact Me
 
-Feel free to reach out if you’d like to connect, collaborate, or just chat about tech:
+Reach out if you'd like to collaborate, discuss projects, or talk about backend development:
 
-📧 **Email:** mfelich77@gmail.com
+📧 **Email:** [mfelich77@gmail.com](mailto:mfelich77@gmail.com)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirzafelic&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzafelic&theme=tokyonight" width="45%" />
-</p>
-
----
-
-<p align="center">💬 *Let's build something meaningful together.*</p>
+<p align="center">💬 *Let's build reliable and meaningful backend systems together.*</p>
