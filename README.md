@@ -1,81 +1,66 @@
-<h1 align="center">Hi there, I'm Mirza 👋</h1>
-<h3 align="center">Java Backend Developer | Spring Boot Enthusiast</h3>
+# Mirza Felić
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Final+year+Engineering+Student;" alt="Typing SVG" />
-</p>
+**Backend Engineer (Java / Spring)**  
+Building secure, production-oriented backend systems with a focus on clean architecture, security, and real-world constraints.
 
 ---
 
-## 💡 About Me
+## About Me
+I am a backend engineer specializing in Java and Spring Boot, with hands-on experience designing and implementing secure REST APIs, role-based authorization, and real-time systems.
 
-I'm a final-year Computer Engineering student from Bosnia and Herzegovina with a passion for understanding how and why things work — a curiosity I bring straight into backend development. I enjoy building clean and scalable systems with secure authentication.
+My work focuses on backend ownership: authentication and authorization, user-scoped data access, validation layers, centralized exception handling, and performance optimization. I have built systems that integrate WebSockets for real-time communication, Redis for caching, and third-party as well as AI-driven APIs.
 
-Even in everyday life, I’m fascinated by understanding how and why things work, which fuels my passion for developing backend systems. My goal is to create reliable, maintainable, and efficient backend solutions that scale well and support real-world business needs.
-
----
-
-## 🔭 Projects
-
-### 📘 [Biddora Backend](https://github.com/mfelich/biddora-backend)
-
-A fully developed Spring Boot backend for a real-time auction platform.
-
-* ⚙️ Built with Spring Boot, JPA/Hibernate, JWT, PostgreSQL, WebSockets, Docker
-* ⏱ Real-time bid tracking and automated auction closure
-* 🛡 Role-based access control and robust service-layer business logic
-* ✅ Fully containerized and production-ready
-
-### 🔧 Current Project: CareBox App
-
-Developing a modern web and IoT platform with:
-
-* **Backend:** Spring Boot
-* **Frontend:** ReactJS
-* **Microcontroller:** ESP module controlled by Java backend
-* Integrated real-time communication between devices and backend
-* Focused on clean architecture, scalability, and maintainability
+I am currently in my final year of Computer Science (Software Engineering), combining a strong engineering foundation with practical backend development on production-oriented projects.
 
 ---
 
-## 🧰 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apache-maven\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+## Core Skills
+- **Languages:** Java  
+- **Backend:** Spring Boot, Spring Security (JWT), REST APIs, WebSockets  
+- **Data:** PostgreSQL, Hibernate / JPA, Redis  
+- **Infrastructure:** Docker  
+- **Testing & Documentation:** JUnit 5, Mockito, SpringDoc OpenAPI  
 
 ---
 
-## 👯 Collaboration & Goals
+## Featured Projects
 
-I'm looking to contribute to backend-focused projects, especially those using Spring Boot and Java. I enjoy learning new technologies, building production-grade systems, and improving my skills in real-world scenarios.
+### Biddora – Real-Time Auction Backend
+Backend system for a real-time auction platform with live bidding and instant updates via WebSockets.
 
----
+- JWT-based authentication and role-based authorization using Spring Security  
+- Secure REST APIs and secured WebSocket sessions  
+- Automated auction winner determination and bid validation  
+- Redis caching for optimized read-heavy operations  
+- Dockerized setup with API documentation via SpringDoc OpenAPI  
 
-## 💼 Experience
-
-* 👨‍💻 Developed and deployed the **Biddora Backend** platform, implementing real-time WebSocket features, robust service-layer logic, and scalable backend systems
-* 🧠 Currently developing the **CareBox App**, integrating Spring Boot backend, React frontend, and ESP microcontrollers for IoT interactions
-* 🎓 During university, gained hands-on experience with a variety of technologies and projects:
-
-  * **MATLAB & Simulink** for modeling and simulations
-  * **Python** for building and testing neural networks
-  * **Web development** projects using modern frameworks
-  * **ESP / Arduino programming** for microcontroller control and integration
-  * **Cisco Networking Certification** for foundational network knowledge and practical skills
-* 🛠 Experienced in team collaboration, code reviews, and following clean architecture principles
+🔗 Repository: https://github.com/mfelich/biddora-backend
 
 ---
 
-## 📫 Contact Me
+### SummonerAI Coach – Backend Analytics & AI Integration
+Backend-driven analytics platform integrating external APIs and AI services to generate contextual insights.
 
-Reach out if you'd like to collaborate, discuss projects, or talk about backend development:
+- Third-party API integration and structured data ingestion  
+- Backend data processing and transformation pipelines  
+- AI-driven analysis generation using OpenAI APIs  
+- Clean separation between integration, service, and presentation layers  
 
-📧 **Email:** [mfelich77@gmail.com](mailto:mfelich77@gmail.com)
+🔗 Repository: https://github.com/mfelich/summonerai-coach
 
-<p align="center">💬 *Let's build reliable and meaningful backend systems together.*</p>
+---
+
+## Current Focus
+- Designing secure backend architectures with Spring Boot  
+- Improving performance and scalability using caching strategies  
+- Building production-ready APIs with clear access rules and ownership boundaries  
+
+---
+
+## Links
+- 🌐 Portfolio: https://portfolio-nine-pi-11.vercel.app  
+- 💼 GitHub: https://github.com/mfelich  
+
+---
+
+*Open to backend engineering opportunities (Java / Spring, remote or on-site).*
